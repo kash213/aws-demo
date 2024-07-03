@@ -1,2 +1,2 @@
 # aws-demo
-Aws repo
+First AWS repo for AWS learning
